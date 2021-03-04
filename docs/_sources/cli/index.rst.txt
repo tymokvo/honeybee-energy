@@ -1,0 +1,21 @@
+CLI Docs
+========
+
+Installation
+------------
+
+To check if the command line interface is installed correctly use `honeybee-energy --help`.
+
+Commands
+--------
+.. toctree::
+   :maxdepth: 1
+
+   lib
+   edit
+   simulate
+   validate
+   settings
+   result
+   translate
+   baseline
